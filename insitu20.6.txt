@@ -11,3 +11,10 @@ II-using git
 
 1-git init from (v)
 OR:from vcode terminal [git init]
+2-[git add .]
+3-[git commit -m'1']
+ i added config user name and email previously.
+4-i will only add a new repo
+ [git remote add origin .....repolink]
+5-[git push -u origin master]
+ i used {without -u ..it worked}
