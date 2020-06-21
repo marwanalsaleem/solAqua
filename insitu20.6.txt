@@ -1,0 +1,13 @@
+I-create react project: open vcode and the folder desktop plus terminal.
+
+1-[npx create-react-app solaquareact]
+2-cd solaquareact
+3-npm start //and follow react terminal recommends.
+4-npm run build
+5-npm install -g serve
+6-serve -s build
+
+II-using git
+
+1-git init from (v)
+OR:from vcode terminal [git init]
